@@ -1,0 +1,17 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.kmp" >
+4
+5    <uses-sdk android:minSdkVersion="24" />
+6
+7    <application>
+7-->/home/arti1208/Coding/Android/DaggerPluginFailRepro/kmp/src/androidMain/AndroidManifest.xml:5:5-9:19
+8        <activity
+8-->/home/arti1208/Coding/Android/DaggerPluginFailRepro/kmp/src/androidMain/AndroidManifest.xml:6:9-8:35
+9            android:name="com.example.kmp.KmpActivity"
+9-->/home/arti1208/Coding/Android/DaggerPluginFailRepro/kmp/src/androidMain/AndroidManifest.xml:7:13-40
+10            android:label="KMP" />
+10-->/home/arti1208/Coding/Android/DaggerPluginFailRepro/kmp/src/androidMain/AndroidManifest.xml:8:13-32
+11    </application>
+12
+13</manifest>

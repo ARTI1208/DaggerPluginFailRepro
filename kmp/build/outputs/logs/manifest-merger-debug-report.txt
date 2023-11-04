@@ -1,0 +1,24 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/arti1208/Coding/Android/DaggerPluginFailRepro/kmp/src/androidMain/AndroidManifest.xml:2:1-11:12
+INJECTED from /home/arti1208/Coding/Android/DaggerPluginFailRepro/kmp/src/androidMain/AndroidManifest.xml:2:1-11:12
+	package
+		INJECTED from /home/arti1208/Coding/Android/DaggerPluginFailRepro/kmp/src/androidMain/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/arti1208/Coding/Android/DaggerPluginFailRepro/kmp/src/androidMain/AndroidManifest.xml:3:5-63
+application
+ADDED from /home/arti1208/Coding/Android/DaggerPluginFailRepro/kmp/src/androidMain/AndroidManifest.xml:5:5-9:19
+activity#com.example.kmp.KmpActivity
+ADDED from /home/arti1208/Coding/Android/DaggerPluginFailRepro/kmp/src/androidMain/AndroidManifest.xml:6:9-8:35
+	android:label
+		ADDED from /home/arti1208/Coding/Android/DaggerPluginFailRepro/kmp/src/androidMain/AndroidManifest.xml:8:13-32
+	android:name
+		ADDED from /home/arti1208/Coding/Android/DaggerPluginFailRepro/kmp/src/androidMain/AndroidManifest.xml:7:13-40
+uses-sdk
+INJECTED from /home/arti1208/Coding/Android/DaggerPluginFailRepro/kmp/src/androidMain/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/arti1208/Coding/Android/DaggerPluginFailRepro/kmp/src/androidMain/AndroidManifest.xml
+INJECTED from /home/arti1208/Coding/Android/DaggerPluginFailRepro/kmp/src/androidMain/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/arti1208/Coding/Android/DaggerPluginFailRepro/kmp/src/androidMain/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/arti1208/Coding/Android/DaggerPluginFailRepro/kmp/src/androidMain/AndroidManifest.xml
